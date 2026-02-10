@@ -6,6 +6,7 @@ El networking profesional entendido como una herramienta para construir y cultiv
 </div>
 
 
+
 * **Objetivo:** Identificar segmentos de usuarios para personalizar campañas de marketing
 * **KPI Impactado:** Retención de usuarios (Retention Rate)
 
