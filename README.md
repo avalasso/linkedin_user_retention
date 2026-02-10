@@ -13,7 +13,7 @@ Utilicé un algoritmo de **K-Means Clustering** para agrupar a los estudiantes s
 * **Validación:** Selección de 'k' mediante el método de Silhouette score.
 
 ## 👥 Personas de Marketing Identificadas
-| Segmento | Descripción | Estrategia de Marketing |
+| Persona | Descripción | Estrategia de Marketing |
 | :--- | :--- | :--- |
 | **Constructor estratégico** | *“Utilizo LinkedIn como una herramienta clave para construir mi carrera”* | Mentoría - Eventos de reclutamiento |
 | **Observador Exploratorio** | *“Sé que existe LinkedIn, pero no lo uso mucho y no sé realmente para qué”* | Alfabetización digital profesional - Ejemplos claros de utilidad |
