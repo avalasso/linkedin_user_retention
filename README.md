@@ -20,7 +20,7 @@ Utilicé un algoritmo de **K-Means Clustering** para agrupar a los estudiantes s
 | **Conocedor Pasivo** | *“LinkedIn es importante, aunque todavía no lo uso activamente”* | Talleres prácticos - Incentivos para la interacción |
 
 ## 📊 Visualización de Resultados
-Nube de palabras (wordclud) de los comentarios de los estuidantes encuestados:
-![WordClod Comentarios](https://tu-enlace-a-la-imagen-aqui.png)
+Nube de palabras (wordcloud) de los comentarios de los estuidantes encuestados:
+![WordCloud Comentarios](https://tu-enlace-a-la-imagen-aqui.png)
 
 
