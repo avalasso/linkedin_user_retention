@@ -22,5 +22,7 @@ Utilicé un algoritmo de **K-Means Clustering** para agrupar a los estudiantes s
 ## 📊 Visualización de Resultados
 Nube de palabras (wordcloud) de los comentarios de los estuidantes encuestados:
 ![WordCloud Comentarios](wordcloud_linkedin.png)
+Los estudiantes reconocen el valor de LinkedIn, pero en el largo plazo.
 
+![Mapa_Influencia de variables](Influence feauture Map.png)
 
