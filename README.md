@@ -24,5 +24,5 @@ Nube de palabras (wordcloud) de los comentarios de los estuidantes encuestados:
 ![WordCloud Comentarios](wordcloud_linkedin.png)
 Los estudiantes reconocen el valor de LinkedIn, pero en el largo plazo.
 
-![Mapa_Influencia de variables](Influence feauture Map.png)
+![Mapa_Influencia de variables](Influence feature Map.png)
 
