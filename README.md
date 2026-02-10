@@ -26,5 +26,5 @@ Los estudiantes reconocen el valor de LinkedIn, pero en el largo plazo.
 
 ![Mapa_Influencia de variables](Influence_feature_map.png)
 
-![Clusters](clusters_de_estudiantes.png)
+![Clusters](cluster_de_estudiantes.png)
 
