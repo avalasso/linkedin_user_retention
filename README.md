@@ -29,7 +29,7 @@ Los estudiantes reconocen el valor de LinkedIn, pero en el largo plazo.
 las variables que apuntan en la misma direccion dan a conocer:
 
 * *primer cuadrante:* Estuidantes para los que la exposicion y ser visisbles pesa mas (a veces el doble) de su desarrollo profesional sin decir que este ultimo no es importante.
-* *cuarto cuadrante:* Estudiantes en donde la el desarrollo profesional es importante pero no tan asi generar visibilidad en la red social.
+* *cuarto cuadrante:* Estudiantes en donde el desarrollo profesional es moderadamente importante pero sus perfiles no generan visibilidad en la red social.
 
 ![Clusters](cluster_de_estudiantes.png)
 
