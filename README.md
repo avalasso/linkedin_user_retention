@@ -21,6 +21,6 @@ Utilicé un algoritmo de **K-Means Clustering** para agrupar a los estudiantes s
 
 ## 📊 Visualización de Resultados
 Nube de palabras (wordcloud) de los comentarios de los estuidantes encuestados:
-![WordCloud Comentarios](https://tu-enlace-a-la-imagen-aqui.png)
+![WordCloud Comentarios](wordcloud_linkedin.png)
 
 
