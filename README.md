@@ -17,7 +17,7 @@ Utilicé un algoritmo de **K-Means Clustering** para agrupar a los estudiantes s
 | Estudiante Tipo | Descripción | Estrategia de Marketing |
 | :--- | :--- | :--- |
 | **Constructor estratégico** | *“Utilizo LinkedIn como una herramienta clave para construir mi carrera”* | Mentoría - Eventos de reclutamiento |
-| **Observador Exploratorio** | *“Sé que existe LinkedIn, pero no lo uso mucho y no sé realmente para qué”* | Alfabetización digital profesional - Ejemplos claros de utilidad |
+| **Observador Exploratorio** | *“Sé que existe LinkedIn y parq que sirve, pero no se como extraer todo su potencial”* | Alfabetización digital profesional - Ejemplos claros de utilidad |
 | **Conocedor Pasivo** | *“LinkedIn es importante, aunque todavía no lo uso activamente”* | Talleres prácticos - Incentivos para la interacción |
 
 ## 📊 Visualización de Resultados
