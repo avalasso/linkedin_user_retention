@@ -11,7 +11,7 @@ El networking profesional entendido como una herramienta para construir y cultiv
 Utilicé un algoritmo de **K-Means Clustering** para agrupar a los estudiantes según su nivel de interacción, conexiones y uso de la plataforma.
 * **Población de estudio:** Estudiantes universitarios que recibieron capacitación específica en marca personal y visibilidad laboral.
 * **Procesamiento:** [Pandas, Numpy, Matplotlib, Seaborn, wordcloud, Scikit-Learn].
-* **Validación:** Selección de 'k' mediante el método de Silhouette score.
+* **Validación:** Selección de 'k' mediante el método de Silhouette Score.
 
 ## 👥 Personas de Marketing Identificadas
 | Estudiante Tipo | Descripción | Estrategia de Marketing |
