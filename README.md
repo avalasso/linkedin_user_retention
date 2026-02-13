@@ -2,9 +2,9 @@
 
 ## 🎯 Problema de Negocio
 
-El networking profesional entendido como una herramienta para construir y cultivar estratégicamente una red de contactos valiosos para generar oportunidades de negocio, apoyo y crecimiento personal, se ha convertido en un elemento clave en el contexto laboral específicamente por los temas de branding y marca personal, en ese contexto las redes sociales cumplen un rol fundamental porque ayudan a tener entre otros beneficios alcance y visibilidad. En el mundo profesional esto es bien conocido y explotado a través de la red social por excelencia para este fin: **LinkedIn**, sin embargo, no se tiene mucha información acerca de la percepción y comportamiento hacia esta red social por parte de los estudiantes universitarios. Ante la falta de información para abordar este particular surge la pregunta: *¿Cómo podemos segmentar a los estudiantes en función de su comportamiento y objetivos para gestionar su lealtad a largo plazo en la plataforma?*,  Este proyecto transforma datos de comportamiento en **estrategias de retención**.
+Professional networking, understood as a tool for strategically building and cultivating a network of valuable contacts to generate business opportunities, support, and personal growth, has become a key element in the workplace, specifically due to branding and personal branding. In this context, social networks play a fundamental role because they help to achieve, among other benefits, reach and visibility. In the professional world, this is well known and leveraged through the quintessential social network for this purpose: LinkedIn. However, there is not much information about the perception and behavior of university students toward this social network. Given the lack of information to address this issue, the question arises: **How can we segment students based on their online behavior to predict their long-term loyalty to the platform?**. This project transforms behavioral data into **retention strategies**.
 
-* **Objetivo:** Identificar segmentos de usuarios para personalizar campañas de marketing
+* **Objetive:** Identificar segmentos de usuarios para personalizar campañas de marketing
 * **KPI Impactado:** Retención de usuarios (Retention Rate)
 
 ## 🧠 Metodología y Solución
