@@ -2,35 +2,37 @@
 
 ## 🎯 Business Problem
 
-Professional networking, understood as a tool for strategically building and cultivating a network of valuable contacts to generate business opportunities, support, and personal growth, has become a key element in the workplace, specifically due to branding and personal branding. In this context, social networks play a fundamental role because they help to achieve, among other benefits, reach and visibility. In the professional world, this is well known and leveraged through the quintessential social network for this purpose: LinkedIn. However, there is not much information about the perception and behavior of university students toward this social network. Given the lack of information to address this issue, the question arises: **How can we segment students based on their online behavior to predict their long-term loyalty to the platform?**. This project transforms behavioral data into **retention strategies**.
+Professional networking, understood as a tool for strategically building and cultivating a network of valuable contacts to generate business opportunities, support, and personal growth, has become a key element in the workplace, specifically due to branding and personal branding. In this context, social networks play a fundamental role because they help to achieve, among other benefits, reach and visibility. In the professional world, this is well known and leveraged through the quintessential social network for this purpose: LinkedIn. However, there is not much information about the perception and behavior of university students toward this social network. Given the lack of information to address this issue, a question arises: **How can we segment students based on their online behavior to predict their long-term loyalty to the platform?**. This project transforms behavioral data into **retention strategies**.
 
-* **Objetive:** Identificar segmentos de usuarios para personalizar campañas de marketing
-* **KPI Impactado:** Retención de usuarios (Retention Rate)
+* **Objetive:** Identify user segments to personalize marketing campaigns
+* **Key KPI:** Retention Rate
 
-## 🧠 Metodología y Solución
-Utilicé un algoritmo de **K-Means Clustering** para agrupar a los estudiantes según su nivel de interacción, conexiones y uso de la plataforma.
-* **Población de estudio:** Estudiantes universitarios que recibieron capacitación específica en marca personal y visibilidad laboral.
-* **Procesamiento:** [Pandas, Numpy, Matplotlib, Seaborn, wordcloud, Scikit-Learn].
-* **Validación:** Selección de 'k' mediante el método de Silhouette Score.
+## 🧠 Methodology and Solution
+I used a **K-Means Clustering** algorithm to group students according to their level of interaction, connections, and use of the platform.
 
-## 👥 Personas de Marketing Identificadas
-| Estudiante Tipo | Descripción | Estrategia de Marketing |
+* **Study Population:** University students who received specific training in personal branding and career visibility.
+* **Data Processing:** [Pandas, NumPy, Matplotlib, Seaborn, WordCloud, Scikit-Learn].
+* **Validation:** Selection of 'k' using the Silhouette Score method.
+
+## 👥 Marketing Profiles
+| Student Type| Description | Marketing Strategy |
 | :--- | :--- | :--- |
-| **Constructor estratégico** | *“Utilizo LinkedIn como una herramienta clave para construir mi carrera”* | Mentoría - Eventos de reclutamiento |
-| **Observador Exploratorio** | *“Sé que existe LinkedIn y para que sirve, pero no se como extraer todo su potencial”* | Alfabetización digital profesional - Ejemplos claros de utilidad |
-| **Conocedor Pasivo** | *“LinkedIn es importante, aunque todavía no lo uso activamente”* | Talleres prácticos - Incentivos para la interacción |
+| **Strategic Career Builder** |*“I use LinkedIn as a key tool to build my career”* | Mentoring - Recruitment Events |
+| **Exploratory Observer** |"I know LinkedIn exists and what it's for, but I don't know how to unlock its full potential" | Professional Digital Literacy - Clear Examples of Usefulness|
+| **Passive Knower** | *“LinkedIn is important, although I don’t actively use it yet”* | Practical workshops - Incentives for interaction|
 
 ## 📊 Visualización de Resultados
-Nube de palabras (wordcloud) de los comentarios de los estuidantes encuestados:
+Wordcloud of comments from surveyed students:
 ![WordCloud Comentarios](wordcloud_linkedin.png)
-Los estudiantes reconocen el valor de LinkedIn, pero en el largo plazo.
+Students recognize the value of LinkedIn, but only in the long term.
 
-Mapa de influencia de variables
+Feature Influence Map
 ![Mapa_Influencia de variables](Influence_feature_map.png)
-las variables que apuntan en la misma direccion dan a conocer:
+The features that point in the same direction reveal:
 
-* *primer cuadrante:* Estuidantes para los que la exposicion y ser visisbles pesa mas (a veces el doble) que su desarrollo profesional sin decir que este ultimo no es importante.
-* *cuarto cuadrante:* Estudiantes en donde el desarrollo profesional es moderadamente importante pero sus perfiles no generan visibilidad en la red social.
+* *First quadrant:* Students for whom exposure and visibility are more important (sometimes twice as important) than their professional development, without implying that the latter is unimportant.
+
+* *Fourth quadrant:* Students for whom professional development is moderately important, but whose profiles do not generate visibility on the social network.
 
 ![Clusters](clusters.png)
 
