@@ -1,4 +1,4 @@
-# 📈 Segmentación Estratégica de Networking: Maximizando el Engagement en LinkedIn para estudiantes universitarios
+# 📈 Strategic Networking Segmentation: Maximizing Engagement on LinkedIn for University Students
 
 ## 🎯 Problema de Negocio
 
