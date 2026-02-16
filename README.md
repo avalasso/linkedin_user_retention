@@ -21,7 +21,7 @@ I used a **K-Means Clustering** algorithm to group students according to their l
 | **Exploratory Observer** |"I know LinkedIn exists and what it's for, but I don't know how to unlock its full potential" | Professional Digital Literacy - Clear Examples of Usefulness|
 | **Passive Knower** | *“LinkedIn is important, although I don’t actively use it yet”* | Practical workshops - Incentives for interaction|
 
-## 📊 Visualización de Resultados
+## 📊 Visualizations
 Wordcloud of comments from surveyed students:
 ![WordCloud Comentarios](wordcloud_linkedin.png)
 Students recognize the value of LinkedIn, but only in the long term.
